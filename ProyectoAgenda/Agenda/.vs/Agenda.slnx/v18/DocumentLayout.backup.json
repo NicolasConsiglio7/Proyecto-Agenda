@@ -1,0 +1,376 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nico\\source\\repos\\ProyectoAgenda\\Agenda\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{000B02EF-AC05-6E85-2E0B-5817C053B541}|..\\LogicaNegocio\\LogicaNegocio.csproj|c:\\users\\nico\\source\\repos\\proyectoagenda\\logicanegocio\\irepositorios\\irepositoriousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C75329B-215D-BF40-2F14-813AA64684B4}|..\\LogicaAplicacion\\LogicaAplicacion.csproj|c:\\users\\nico\\source\\repos\\proyectoagenda\\logicaaplicacion\\interfacescu\\iloginusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{000B02EF-AC05-6E85-2E0B-5817C053B541}|..\\LogicaNegocio\\LogicaNegocio.csproj|c:\\users\\nico\\source\\repos\\proyectoagenda\\logicanegocio\\entidades\\administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{000B02EF-AC05-6E85-2E0B-5817C053B541}|..\\LogicaNegocio\\LogicaNegocio.csproj|c:\\users\\nico\\source\\repos\\proyectoagenda\\logicanegocio\\entidades\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{000B02EF-AC05-6E85-2E0B-5817C053B541}|..\\LogicaNegocio\\LogicaNegocio.csproj|c:\\users\\nico\\source\\repos\\proyectoagenda\\logicanegocio\\entidades\\tiposuscripcion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{000B02EF-AC05-6E85-2E0B-5817C053B541}|..\\LogicaNegocio\\LogicaNegocio.csproj|c:\\users\\nico\\source\\repos\\proyectoagenda\\logicanegocio\\entidades\\suscripcion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{000B02EF-AC05-6E85-2E0B-5817C053B541}|..\\LogicaNegocio\\LogicaNegocio.csproj|c:\\users\\nico\\source\\repos\\proyectoagenda\\logicanegocio\\entidades\\servicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{000B02EF-AC05-6E85-2E0B-5817C053B541}|..\\LogicaNegocio\\LogicaNegocio.csproj|c:\\users\\nico\\source\\repos\\proyectoagenda\\logicanegocio\\entidades\\rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{000B02EF-AC05-6E85-2E0B-5817C053B541}|..\\LogicaNegocio\\LogicaNegocio.csproj|c:\\users\\nico\\source\\repos\\proyectoagenda\\logicanegocio\\entidades\\reserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{000B02EF-AC05-6E85-2E0B-5817C053B541}|..\\LogicaNegocio\\LogicaNegocio.csproj|c:\\users\\nico\\source\\repos\\proyectoagenda\\logicanegocio\\entidades\\pago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{000B02EF-AC05-6E85-2E0B-5817C053B541}|..\\LogicaNegocio\\LogicaNegocio.csproj|c:\\users\\nico\\source\\repos\\proyectoagenda\\logicanegocio\\entidades\\negocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{000B02EF-AC05-6E85-2E0B-5817C053B541}|..\\LogicaNegocio\\LogicaNegocio.csproj|c:\\users\\nico\\source\\repos\\proyectoagenda\\logicanegocio\\entidades\\metodopago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{000B02EF-AC05-6E85-2E0B-5817C053B541}|..\\LogicaNegocio\\LogicaNegocio.csproj|c:\\users\\nico\\source\\repos\\proyectoagenda\\logicanegocio\\entidades\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{000B02EF-AC05-6E85-2E0B-5817C053B541}|..\\LogicaNegocio\\LogicaNegocio.csproj|c:\\users\\nico\\source\\repos\\proyectoagenda\\logicanegocio\\entidades\\local.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{000B02EF-AC05-6E85-2E0B-5817C053B541}|..\\LogicaNegocio\\LogicaNegocio.csproj|c:\\users\\nico\\source\\repos\\proyectoagenda\\logicanegocio\\entidades\\horario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{000B02EF-AC05-6E85-2E0B-5817C053B541}|..\\LogicaNegocio\\LogicaNegocio.csproj|c:\\users\\nico\\source\\repos\\proyectoagenda\\logicanegocio\\entidades\\estadoreserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{000B02EF-AC05-6E85-2E0B-5817C053B541}|..\\LogicaNegocio\\LogicaNegocio.csproj|c:\\users\\nico\\source\\repos\\proyectoagenda\\logicanegocio\\entidades\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{000B02EF-AC05-6E85-2E0B-5817C053B541}|..\\LogicaNegocio\\LogicaNegocio.csproj|c:\\users\\nico\\source\\repos\\proyectoagenda\\logicanegocio\\entidades\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C75329B-215D-BF40-2F14-813AA64684B4}|..\\LogicaAplicacion\\LogicaAplicacion.csproj|c:\\users\\nico\\source\\repos\\proyectoagenda\\logicaaplicacion\\cu\\cusuario\\culogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03D57CB9-2B69-3FAE-5E46-193AC2BAEE21}|..\\LogicaAccesoDatos\\LogicaAccesoDatos.csproj|c:\\users\\nico\\source\\repos\\proyectoagenda\\logicaaccesodatos\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4B60B59-2194-0985-5BF2-22CE3F2119E8}|..\\DTOs\\DTOs.csproj|c:\\users\\nico\\source\\repos\\proyectoagenda\\dtos\\mappers\\usuariomappers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4B60B59-2194-0985-5BF2-22CE3F2119E8}|..\\DTOs\\DTOs.csproj|c:\\users\\nico\\source\\repos\\proyectoagenda\\dtos\\dtos\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IRepositorioUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\Nico\\source\\repos\\ProyectoAgenda\\LogicaNegocio\\IRepositorios\\IRepositorioUsuario.cs",
+              "RelativeDocumentMoniker": "..\\LogicaNegocio\\IRepositorios\\IRepositorioUsuario.cs",
+              "ToolTip": "C:\\Users\\Nico\\source\\repos\\ProyectoAgenda\\LogicaNegocio\\IRepositorios\\IRepositorioUsuario.cs",
+              "RelativeToolTip": "..\\LogicaNegocio\\IRepositorios\\IRepositorioUsuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T16:16:09.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Nico\\source\\repos\\ProyectoAgenda\\LogicaNegocio\\Entidades\\Usuario.cs",
+              "RelativeDocumentMoniker": "..\\LogicaNegocio\\Entidades\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Nico\\source\\repos\\ProyectoAgenda\\LogicaNegocio\\Entidades\\Usuario.cs",
+              "RelativeToolTip": "..\\LogicaNegocio\\Entidades\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T16:15:55.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TipoSuscripcion.cs",
+              "DocumentMoniker": "C:\\Users\\Nico\\source\\repos\\ProyectoAgenda\\LogicaNegocio\\Entidades\\TipoSuscripcion.cs",
+              "RelativeDocumentMoniker": "..\\LogicaNegocio\\Entidades\\TipoSuscripcion.cs",
+              "ToolTip": "C:\\Users\\Nico\\source\\repos\\ProyectoAgenda\\LogicaNegocio\\Entidades\\TipoSuscripcion.cs",
+              "RelativeToolTip": "..\\LogicaNegocio\\Entidades\\TipoSuscripcion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T16:15:54.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Suscripcion.cs",
+              "DocumentMoniker": "C:\\Users\\Nico\\source\\repos\\ProyectoAgenda\\LogicaNegocio\\Entidades\\Suscripcion.cs",
+              "RelativeDocumentMoniker": "..\\LogicaNegocio\\Entidades\\Suscripcion.cs",
+              "ToolTip": "C:\\Users\\Nico\\source\\repos\\ProyectoAgenda\\LogicaNegocio\\Entidades\\Suscripcion.cs",
+              "RelativeToolTip": "..\\LogicaNegocio\\Entidades\\Suscripcion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T16:15:54.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Servicio.cs",
+              "DocumentMoniker": "C:\\Users\\Nico\\source\\repos\\ProyectoAgenda\\LogicaNegocio\\Entidades\\Servicio.cs",
+              "RelativeDocumentMoniker": "..\\LogicaNegocio\\Entidades\\Servicio.cs",
+              "ToolTip": "C:\\Users\\Nico\\source\\repos\\ProyectoAgenda\\LogicaNegocio\\Entidades\\Servicio.cs",
+              "RelativeToolTip": "..\\LogicaNegocio\\Entidades\\Servicio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T16:15:53.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Rol.cs",
+              "DocumentMoniker": "C:\\Users\\Nico\\source\\repos\\ProyectoAgenda\\LogicaNegocio\\Entidades\\Rol.cs",
+              "RelativeDocumentMoniker": "..\\LogicaNegocio\\Entidades\\Rol.cs",
+              "ToolTip": "C:\\Users\\Nico\\source\\repos\\ProyectoAgenda\\LogicaNegocio\\Entidades\\Rol.cs",
+              "RelativeToolTip": "..\\LogicaNegocio\\Entidades\\Rol.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T16:15:53.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Reserva.cs",
+              "DocumentMoniker": "C:\\Users\\Nico\\source\\repos\\ProyectoAgenda\\LogicaNegocio\\Entidades\\Reserva.cs",
+              "RelativeDocumentMoniker": "..\\LogicaNegocio\\Entidades\\Reserva.cs",
+              "ToolTip": "C:\\Users\\Nico\\source\\repos\\ProyectoAgenda\\LogicaNegocio\\Entidades\\Reserva.cs",
+              "RelativeToolTip": "..\\LogicaNegocio\\Entidades\\Reserva.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T16:15:52.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Pago.cs",
+              "DocumentMoniker": "C:\\Users\\Nico\\source\\repos\\ProyectoAgenda\\LogicaNegocio\\Entidades\\Pago.cs",
+              "RelativeDocumentMoniker": "..\\LogicaNegocio\\Entidades\\Pago.cs",
+              "ToolTip": "C:\\Users\\Nico\\source\\repos\\ProyectoAgenda\\LogicaNegocio\\Entidades\\Pago.cs",
+              "RelativeToolTip": "..\\LogicaNegocio\\Entidades\\Pago.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T16:15:51.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Negocio.cs",
+              "DocumentMoniker": "C:\\Users\\Nico\\source\\repos\\ProyectoAgenda\\LogicaNegocio\\Entidades\\Negocio.cs",
+              "RelativeDocumentMoniker": "..\\LogicaNegocio\\Entidades\\Negocio.cs",
+              "ToolTip": "C:\\Users\\Nico\\source\\repos\\ProyectoAgenda\\LogicaNegocio\\Entidades\\Negocio.cs",
+              "RelativeToolTip": "..\\LogicaNegocio\\Entidades\\Negocio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T16:15:51.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MetodoPago.cs",
+              "DocumentMoniker": "C:\\Users\\Nico\\source\\repos\\ProyectoAgenda\\LogicaNegocio\\Entidades\\MetodoPago.cs",
+              "RelativeDocumentMoniker": "..\\LogicaNegocio\\Entidades\\MetodoPago.cs",
+              "ToolTip": "C:\\Users\\Nico\\source\\repos\\ProyectoAgenda\\LogicaNegocio\\Entidades\\MetodoPago.cs",
+              "RelativeToolTip": "..\\LogicaNegocio\\Entidades\\MetodoPago.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T16:15:51.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\Nico\\source\\repos\\ProyectoAgenda\\LogicaNegocio\\Entidades\\Login.cs",
+              "RelativeDocumentMoniker": "..\\LogicaNegocio\\Entidades\\Login.cs",
+              "ToolTip": "C:\\Users\\Nico\\source\\repos\\ProyectoAgenda\\LogicaNegocio\\Entidades\\Login.cs",
+              "RelativeToolTip": "..\\LogicaNegocio\\Entidades\\Login.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T16:15:50.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Administrador.cs",
+              "DocumentMoniker": "C:\\Users\\Nico\\source\\repos\\ProyectoAgenda\\LogicaNegocio\\Entidades\\Administrador.cs",
+              "RelativeDocumentMoniker": "..\\LogicaNegocio\\Entidades\\Administrador.cs",
+              "ToolTip": "C:\\Users\\Nico\\source\\repos\\ProyectoAgenda\\LogicaNegocio\\Entidades\\Administrador.cs",
+              "RelativeToolTip": "..\\LogicaNegocio\\Entidades\\Administrador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T16:15:48.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ILoginUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\Nico\\source\\repos\\ProyectoAgenda\\LogicaAplicacion\\InterfacesCU\\ILoginUsuario.cs",
+              "RelativeDocumentMoniker": "..\\LogicaAplicacion\\InterfacesCU\\ILoginUsuario.cs",
+              "ToolTip": "C:\\Users\\Nico\\source\\repos\\ProyectoAgenda\\LogicaAplicacion\\InterfacesCU\\ILoginUsuario.cs",
+              "RelativeToolTip": "..\\LogicaAplicacion\\InterfacesCU\\ILoginUsuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T16:15:46.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Local.cs",
+              "DocumentMoniker": "C:\\Users\\Nico\\source\\repos\\ProyectoAgenda\\LogicaNegocio\\Entidades\\Local.cs",
+              "RelativeDocumentMoniker": "..\\LogicaNegocio\\Entidades\\Local.cs",
+              "ToolTip": "C:\\Users\\Nico\\source\\repos\\ProyectoAgenda\\LogicaNegocio\\Entidades\\Local.cs",
+              "RelativeToolTip": "..\\LogicaNegocio\\Entidades\\Local.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T16:15:50.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Horario.cs",
+              "DocumentMoniker": "C:\\Users\\Nico\\source\\repos\\ProyectoAgenda\\LogicaNegocio\\Entidades\\Horario.cs",
+              "RelativeDocumentMoniker": "..\\LogicaNegocio\\Entidades\\Horario.cs",
+              "ToolTip": "C:\\Users\\Nico\\source\\repos\\ProyectoAgenda\\LogicaNegocio\\Entidades\\Horario.cs",
+              "RelativeToolTip": "..\\LogicaNegocio\\Entidades\\Horario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T16:15:49.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EstadoReserva.cs",
+              "DocumentMoniker": "C:\\Users\\Nico\\source\\repos\\ProyectoAgenda\\LogicaNegocio\\Entidades\\EstadoReserva.cs",
+              "RelativeDocumentMoniker": "..\\LogicaNegocio\\Entidades\\EstadoReserva.cs",
+              "ToolTip": "C:\\Users\\Nico\\source\\repos\\ProyectoAgenda\\LogicaNegocio\\Entidades\\EstadoReserva.cs",
+              "RelativeToolTip": "..\\LogicaNegocio\\Entidades\\EstadoReserva.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T16:15:49.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Empleado.cs",
+              "DocumentMoniker": "C:\\Users\\Nico\\source\\repos\\ProyectoAgenda\\LogicaNegocio\\Entidades\\Empleado.cs",
+              "RelativeDocumentMoniker": "..\\LogicaNegocio\\Entidades\\Empleado.cs",
+              "ToolTip": "C:\\Users\\Nico\\source\\repos\\ProyectoAgenda\\LogicaNegocio\\Entidades\\Empleado.cs",
+              "RelativeToolTip": "..\\LogicaNegocio\\Entidades\\Empleado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T16:15:48.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\Nico\\source\\repos\\ProyectoAgenda\\LogicaNegocio\\Entidades\\Cliente.cs",
+              "RelativeDocumentMoniker": "..\\LogicaNegocio\\Entidades\\Cliente.cs",
+              "ToolTip": "C:\\Users\\Nico\\source\\repos\\ProyectoAgenda\\LogicaNegocio\\Entidades\\Cliente.cs",
+              "RelativeToolTip": "..\\LogicaNegocio\\Entidades\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T16:15:48.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CULogin.cs",
+              "DocumentMoniker": "C:\\Users\\Nico\\source\\repos\\ProyectoAgenda\\LogicaAplicacion\\CU\\CUsuario\\CULogin.cs",
+              "RelativeDocumentMoniker": "..\\LogicaAplicacion\\CU\\CUsuario\\CULogin.cs",
+              "ToolTip": "C:\\Users\\Nico\\source\\repos\\ProyectoAgenda\\LogicaAplicacion\\CU\\CUsuario\\CULogin.cs",
+              "RelativeToolTip": "..\\LogicaAplicacion\\CU\\CUsuario\\CULogin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T16:15:44.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Nico\\source\\repos\\ProyectoAgenda\\LogicaAccesoDatos\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "..\\LogicaAccesoDatos\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Nico\\source\\repos\\ProyectoAgenda\\LogicaAccesoDatos\\ApplicationDbContext.cs",
+              "RelativeToolTip": "..\\LogicaAccesoDatos\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T16:15:38.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UsuarioMappers.cs",
+              "DocumentMoniker": "C:\\Users\\Nico\\source\\repos\\ProyectoAgenda\\DTOs\\Mappers\\UsuarioMappers.cs",
+              "RelativeDocumentMoniker": "..\\DTOs\\Mappers\\UsuarioMappers.cs",
+              "ToolTip": "C:\\Users\\Nico\\source\\repos\\ProyectoAgenda\\DTOs\\Mappers\\UsuarioMappers.cs",
+              "RelativeToolTip": "..\\DTOs\\Mappers\\UsuarioMappers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T16:15:36.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UsuarioDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Nico\\source\\repos\\ProyectoAgenda\\DTOs\\DTOs\\UsuarioDTO.cs",
+              "RelativeDocumentMoniker": "..\\DTOs\\DTOs\\UsuarioDTO.cs",
+              "ToolTip": "C:\\Users\\Nico\\source\\repos\\ProyectoAgenda\\DTOs\\DTOs\\UsuarioDTO.cs",
+              "RelativeToolTip": "..\\DTOs\\DTOs\\UsuarioDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T16:15:34.227Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
