@@ -1,0 +1,13 @@
+C:\Users\Nico\OneDrive\Desktop\ProyectoAgendaBarberia\ProyectoAgenda\ProyectoAgenda\LogicaNegocio\bin\Debug\net10.0\LogicaNegocio.deps.json
+C:\Users\Nico\OneDrive\Desktop\ProyectoAgendaBarberia\ProyectoAgenda\ProyectoAgenda\LogicaNegocio\bin\Debug\net10.0\LogicaNegocio.dll
+C:\Users\Nico\OneDrive\Desktop\ProyectoAgendaBarberia\ProyectoAgenda\ProyectoAgenda\LogicaNegocio\bin\Debug\net10.0\LogicaNegocio.pdb
+C:\Users\Nico\OneDrive\Desktop\ProyectoAgendaBarberia\ProyectoAgenda\ProyectoAgenda\LogicaNegocio\obj\Debug\net10.0\LogicaNegocio.csproj.AssemblyReference.cache
+C:\Users\Nico\OneDrive\Desktop\ProyectoAgendaBarberia\ProyectoAgenda\ProyectoAgenda\LogicaNegocio\obj\Debug\net10.0\LogicaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nico\OneDrive\Desktop\ProyectoAgendaBarberia\ProyectoAgenda\ProyectoAgenda\LogicaNegocio\obj\Debug\net10.0\LogicaNegocio.AssemblyInfoInputs.cache
+C:\Users\Nico\OneDrive\Desktop\ProyectoAgendaBarberia\ProyectoAgenda\ProyectoAgenda\LogicaNegocio\obj\Debug\net10.0\LogicaNegocio.AssemblyInfo.cs
+C:\Users\Nico\OneDrive\Desktop\ProyectoAgendaBarberia\ProyectoAgenda\ProyectoAgenda\LogicaNegocio\obj\Debug\net10.0\LogicaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Nico\OneDrive\Desktop\ProyectoAgendaBarberia\ProyectoAgenda\ProyectoAgenda\LogicaNegocio\obj\Debug\net10.0\LogicaNegocio.sourcelink.json
+C:\Users\Nico\OneDrive\Desktop\ProyectoAgendaBarberia\ProyectoAgenda\ProyectoAgenda\LogicaNegocio\obj\Debug\net10.0\LogicaNegocio.dll
+C:\Users\Nico\OneDrive\Desktop\ProyectoAgendaBarberia\ProyectoAgenda\ProyectoAgenda\LogicaNegocio\obj\Debug\net10.0\refint\LogicaNegocio.dll
+C:\Users\Nico\OneDrive\Desktop\ProyectoAgendaBarberia\ProyectoAgenda\ProyectoAgenda\LogicaNegocio\obj\Debug\net10.0\LogicaNegocio.pdb
+C:\Users\Nico\OneDrive\Desktop\ProyectoAgendaBarberia\ProyectoAgenda\ProyectoAgenda\LogicaNegocio\obj\Debug\net10.0\ref\LogicaNegocio.dll

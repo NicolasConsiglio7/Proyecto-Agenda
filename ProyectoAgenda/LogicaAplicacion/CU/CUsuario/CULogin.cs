@@ -2,6 +2,7 @@
 using DTOs.Mappers;
 using LogicaAccesoDatos.Repositorios;
 using LogicaAplicacion.InterfacesCU;
+using LogicaNegocio.IRepositorios;
 using System;
 using System.Collections.Generic;
 using System.Text;
@@ -10,9 +11,9 @@ namespace LogicaAplicacion.CU.CUsuario
 {
     public class CULogin : ILoginUsuario
     {
-        private UsuarioRepository _repo;
+        private IRepositorioUsuario _repo;
 
-        public CULogin(UsuarioRepository repo)
+        public CULogin(IRepositorioUsuario repo)
         {
             _repo = repo;
         }
